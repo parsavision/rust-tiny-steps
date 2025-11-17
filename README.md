@@ -11,12 +11,12 @@ A complete, gradual learning path where each exercise teaches **exactly one conc
 | # | Exercise | Core Concept | Prerequisites | ✅ |
 |---|----------|--------------|--------------|---|
 | **1–10: Absolute Basics** ||||
-| 1 | Print "Hello, world!" | First program | None | ☐ |
+| 1 | Print "Hello, world!" | First program | None | ✅ |
 | 2 | Print with formatting: `println!("Hi {}", "Ali");` | String formatting | — | ✅ |
 | 3 | Two variables `let a = 5; let b = 10;` and print sum | Immutable variables | — | ✅ |
 | 4 | `let mut x = 5;` and change it twice | Mutability | — | ✅ |
-| 5 | Explicit type: `let a: u32 = 42;` | Type annotation | — | ☐ |
-| 6 | Define and use `const PI: f64 = 3.14;` | Constants | — | ☐ |
+| 5 | Explicit type: `let a: u32 = 42;` | Type annotation | — | ✅ |
+| 6 | Define and use `const PI: f64 = 3.14;` | Constants | — | ✅ |
 | 7 | Get user input with `stdin().read_line` | Input | String, mut | ☐ |
 | 8 | Clean input with `.trim()` | String handling | — | ☐ |
 | 9 | Parse string to `i32` | parse, Result | — | ☐ |
