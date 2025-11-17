@@ -17,7 +17,7 @@ A complete, gradual learning path where each exercise teaches **exactly one conc
 | 4 | `let mut x = 5;` and change it twice | Mutability | — | ✅ |
 | 5 | Explicit type: `let a: u32 = 42;` | Type annotation | — | ✅ |
 | 6 | Define and use `const PI: f64 = 3.14;` | Constants | — | ✅ |
-| 7 | Get user input with `stdin().read_line` | Input | String, mut | ☐ |
+| 7 | Get user input with `stdin().read_line` | Input | String, mut | ✅ |
 | 8 | Clean input with `.trim()` | String handling | — | ☐ |
 | 9 | Parse string to `i32` | parse, Result | — | ☐ |
 | 10 | Handle parse error: print "Invalid number!" | Basic error handling | — | ☐ |
