@@ -40,7 +40,7 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅| **Exercise 16** | Understand variable types | Type annotations (`: i32`) |
 | ✅| **Exercise 17** | Try different number types | Unsigned integers (`u32`) |
 | ⭐✅ | **Exercise 18** | Constants vs variables | **Constants** using `const` (UPPERCASE) |
-| |✅ **Exercise 19** | Use multiple operations | Order of operations with parentheses |
+| ✅| **Exercise 19** | Use multiple operations | Order of operations with parentheses |
 | 📝 ✅| **Exercise 20** | Remainder operation | Modulo operator (`%`) |
 
 ---
