@@ -1,5 +1,5 @@
 
-# 🦀 Rust Tiny Steps v2: 300 Exercises for Complete Beginners
+# 🦀 Rust Tiny Steps : 600 Exercises for Complete Beginners
 
 A complete, gradual learning path designed for **absolute beginners**. Each exercise teaches exactly **ONE** concept with clear explanations.
 
