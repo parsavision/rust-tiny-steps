@@ -457,4 +457,3 @@ Here is the continuation of **PHASE 9** and the start of **PHASE 10: Collections
 
 ---
 
-Would you like to continue with the remaining exercises (261-300), or would you prefer a summary of a specific phase?
