@@ -50,14 +50,14 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐ | **Exercise 21** | Get user input for the first time | `stdin().read_line()`, using `std::io` |
-| | **Exercise 22** | Create an empty String | Creating empty `String`s for input |
-| | **Exercise 23** | Print what the user typed | Echo program |
-| ⭐ | **Exercise 24** | Clean up user input | String trimming with `.trim()` |
+| ⭐ ✅| **Exercise 21** | Get user input for the first time | `stdin().read_line()`, using `std::io` |
+| ✅| **Exercise 22** | Create an empty String | Creating empty `String`s for input |
+|✅ | **Exercise 23** | Print what the user typed | Echo program |
+| ⭐✅ | **Exercise 24** | Clean up user input | String trimming with `.trim()` |
 | | **Exercise 25** | Get a number from the user | Input starts as text (`String`) |
-| ⭐ | **Exercise 26** | Convert text to number | **Type conversion** with `.parse()` |
-| | **Exercise 27** | Handle parsing errors safely | Basic error handling with `.expect()` |
-| 📝 | **Exercise 28** | Simple calculator input | Combining input, parsing, and math |
+| ⭐✅ | **Exercise 26** | Convert text to number | **Type conversion** with `.parse()` |
+| ✅| **Exercise 27** | Handle parsing errors safely | Basic error handling with `.expect()` |
+| 📝 ✅| **Exercise 28** | Simple calculator input | Combining input, parsing, and math |
 | | **Exercise 29** | Input validation message | Handling `Result` with `match` |
 | | **Exercise 30** | Build a greeting program | Combining input and formatting |
 
