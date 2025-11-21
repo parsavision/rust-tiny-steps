@@ -58,15 +58,15 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ⭐✅ | **Exercise 26** | Convert text to number | **Type conversion** with `.parse()` |
 | ✅| **Exercise 27** | Handle parsing errors safely | Basic error handling with `.expect()` |
 | 📝 ✅| **Exercise 28** | Simple calculator input | Combining input, parsing, and math |
-| | **Exercise 29** | Input validation message | Handling `Result` with `match` |
-| | **Exercise 30** | Build a greeting program | Combining input and formatting |
+| ✅| **Exercise 29** | Input validation message | Handling `Result` with `match` |
+| ✅| **Exercise 30** | Build a greeting program | Combining input and formatting |
 
 ### Week 4: Making Decisions
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐ | **Exercise 31** | Your first `if` statement | Basic `if` statement |
-| | **Exercise 32** | Add an `else` | `if-else` structure |
+| ⭐✅ | **Exercise 31** | Your first `if` statement | Basic `if` statement |
+| ✅| **Exercise 32** | Add an `else` | `if-else` structure |
 | | **Exercise 33** | Check if equal | Equality with `==` |
 | | **Exercise 34** | Multiple conditions | `else if` structure |
 | ⭐ | **Exercise 35** | `if` as an expression | `If` expressions return values |
