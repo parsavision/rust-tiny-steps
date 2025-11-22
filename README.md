@@ -67,9 +67,9 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | :---: | :--- | :--- | :--- |
 | ⭐✅ | **Exercise 31** | Your first `if` statement | Basic `if` statement |
 | ✅| **Exercise 32** | Add an `else` | `if-else` structure |
-| | **Exercise 33** | Check if equal | Equality with `==` |
-| | **Exercise 34** | Multiple conditions | `else if` structure |
-| ⭐ | **Exercise 35** | `if` as an expression | `If` expressions return values |
+| ✅| **Exercise 33** | Check if equal | Equality with `==` |
+| ✅| **Exercise 34** | Multiple conditions | `else if` structure |
+| ⭐✅ | **Exercise 35** | `if` as an expression | `If` expressions return values |
 
 ---
 
@@ -78,14 +78,14 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐ | **Exercise 36** | Create your first function | Function definition with `fn` |
-| | **Exercise 37** | Call your function | Function calls |
-| | **Exercise 38** | Function with a parameter | Function parameters |
-| | **Exercise 39** | Multiple parameters | Multiple parameters in a function |
-| ⭐ | **Exercise 40** | Return a value | Return values with `->` (Last expression) |
-| | **Exercise 41** | Use `return` keyword | Explicit `return` keyword |
-| | **Exercise 42** | Return from middle of function | Early returns |
-| | **Exercise 43** | Function returning `bool` | Boolean returns |
+| ⭐✅ | **Exercise 36** | Create your first function | Function definition with `fn` |
+| ✅| **Exercise 37** | Call your function | Function calls |
+| ✅| **Exercise 38** | Function with a parameter | Function parameters |
+| ✅| **Exercise 39** | Multiple parameters | Multiple parameters in a function |
+| ⭐✅ | **Exercise 40** | Return a value | Return values with `->` (Last expression) |
+| ✅| **Exercise 41** | Use `return` keyword | Explicit `return` keyword |
+| ✅| **Exercise 42** | Return from middle of function | Early returns |
+| ✅| **Exercise 43** | Function returning `bool` | Boolean returns |
 | | **Exercise 44** | Function returning bigger number | Comparison in functions |
 | | **Exercise 45** | Function without return | Unit type `()` is implicit |
 | 📝 | **Exercise 46** | Build a calculator | Multiple helper functions |
