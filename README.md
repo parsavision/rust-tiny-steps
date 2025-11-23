@@ -89,10 +89,10 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅| **Exercise 44** | Function returning bigger number | Comparison in functions |
 | ✅| **Exercise 45** | Function without return | Unit type `()` is implicit |
 | 📝✅ | **Exercise 46** | Build a calculator | Multiple helper functions |
-| | **Exercise 47** | Function calling function | Function composition |
-| | **Exercise 48** | Absolute value function | Conditional returns |
-| | **Exercise 49** | Square a number | Simple math functions |
-| ⭐ | **Exercise 50** | Simple recursion | Function calling itself |
+| ✅| **Exercise 47** | Function calling function | Function composition |
+| ✅| **Exercise 48** | Absolute value function | Conditional returns |
+| ✅| **Exercise 49** | Square a number | Simple math functions |
+| ⭐✅ | **Exercise 50** | Simple recursion | Function calling itself |
 
 ### Week 6: More Functions
 
