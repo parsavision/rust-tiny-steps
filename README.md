@@ -98,12 +98,12 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| | **Exercise 51** | Factorial with recursion | Practical recursion |
-| | **Exercise 52** | Check if positive | Simple boolean logic |
-| | **Exercise 53** | Check if negative | Comparison operators |
-| | **Exercise 54** | Check range | Multiple conditions with `&&` |
-| ⭐ | **Exercise 55** | String parameter | String slices as parameters (`&str`) |
-| | **Exercise 56** | Convert temperature (C to F) | Working with floats (`f64`) |
+| ✅| **Exercise 51** | Factorial with recursion | Practical recursion |
+| ✅| **Exercise 52** | Check if positive | Simple boolean logic |
+| ✅| **Exercise 53** | Check if negative | Comparison operators |
+| ✅| **Exercise 54** | Check range | Multiple conditions with `&&` |
+| ⭐✅ | **Exercise 55** | String parameter | String slices as parameters (`&str`) |
+| ✅| **Exercise 56** | Convert temperature (C to F) | Working with floats (`f64`) |
 | | **Exercise 57** | Convert temperature (F to C) | Inverse operations |
 | | **Exercise 58** | Calculate circle area | Using PI (3.14159...) |
 | | **Exercise 59** | Calculate rectangle area | Multiple parameters with floats |
