@@ -117,10 +117,10 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
 | ⭐✅ | **Exercise 61** | Your first loop | Infinite loop with `loop`, using counter and `break` |
-| | **Exercise 62** | Break out of loop | `break` keyword |
-| | **Exercise 63** | Continue in loop | `continue` keyword |
-| ⭐ | **Exercise 64** | `While` loop | `while` loop with condition |
-| | **Exercise 65** | `While` with user input | Sentinel-controlled loop |
+| ✅| **Exercise 62** | Break out of loop | `break` keyword |
+| ✅| **Exercise 63** | Continue in loop | `continue` keyword |
+| ⭐✅ | **Exercise 64** | `While` loop | `while` loop with condition |
+| ✅| **Exercise 65** | `While` with user input | Sentinel-controlled loop |
 | ⭐ | **Exercise 66** | `For` loop with range | `for` loop with range (`0..10` excludes 10) |
 | | **Exercise 67** | Inclusive range | Inclusive range with `..=` |
 | | **Exercise 68** | Countdown loop | Reverse iteration with `.rev()` |
