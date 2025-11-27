@@ -126,11 +126,11 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅| **Exercise 68** | Countdown loop | Reverse iteration with `.rev()` |
 | ✅| **Exercise 69** | Skip numbers | Step iteration with `.step_by(2)` |
 | ✅| **Exercise 70** | Sum with loop | Accumulator pattern |
-| 📝 | **Exercise 71** | Multiplication table | Loop with multiplication |
-| | **Exercise 72** | Factorial with loop | Loop-based algorithm |
-| | **Exercise 73** | Count down to blast off | Loop with final action |
-| | **Exercise 74** | Find first number divisible by 7 | Search with `break` |
-| ⭐ | **Exercise 75** | Nested loops | Loop inside loop |
+| 📝✅ | **Exercise 71** | Multiplication table | Loop with multiplication |
+|✅ | **Exercise 72** | Factorial with loop | Loop-based algorithm |
+|✅ | **Exercise 73** | Count down to blast off | Loop with final action |
+| ✅| **Exercise 74** | Find first number divisible by 7 | Search with `break` |
+| ⭐✅ | **Exercise 75** | Nested loops | Loop inside loop |
 
 ### Week 8: Advanced Loops
 
