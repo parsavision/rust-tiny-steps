@@ -121,11 +121,11 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅| **Exercise 63** | Continue in loop | `continue` keyword |
 | ⭐✅ | **Exercise 64** | `While` loop | `while` loop with condition |
 | ✅| **Exercise 65** | `While` with user input | Sentinel-controlled loop |
-| ⭐ | **Exercise 66** | `For` loop with range | `for` loop with range (`0..10` excludes 10) |
-| | **Exercise 67** | Inclusive range | Inclusive range with `..=` |
-| | **Exercise 68** | Countdown loop | Reverse iteration with `.rev()` |
-| | **Exercise 69** | Skip numbers | Step iteration with `.step_by(2)` |
-| | **Exercise 70** | Sum with loop | Accumulator pattern |
+| ⭐✅ | **Exercise 66** | `For` loop with range | `for` loop with range (`0..10` excludes 10) |
+| ✅| **Exercise 67** | Inclusive range | Inclusive range with `..=` |
+| ✅| **Exercise 68** | Countdown loop | Reverse iteration with `.rev()` |
+| ✅| **Exercise 69** | Skip numbers | Step iteration with `.step_by(2)` |
+| ✅| **Exercise 70** | Sum with loop | Accumulator pattern |
 | 📝 | **Exercise 71** | Multiplication table | Loop with multiplication |
 | | **Exercise 72** | Factorial with loop | Loop-based algorithm |
 | | **Exercise 73** | Count down to blast off | Loop with final action |
