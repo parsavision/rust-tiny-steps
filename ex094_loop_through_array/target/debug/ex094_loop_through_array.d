@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex094_loop_through_array/target/debug/ex094_loop_through_array: /home/parsavisions/Desktop/github/rust-tiny-steps/ex094_loop_through_array/src/main.rs
