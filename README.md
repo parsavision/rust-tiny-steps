@@ -66,10 +66,10 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
 | ⭐✅ | **Exercise 31** | Your first `if` statement | Basic `if` statement |
-| ✅| **Exercise 32** | Add an `else` | `if-else` structure |
-| ✅| **Exercise 33** | Check if equal | Equality with `==` |
-| ✅| **Exercise 34** | Multiple conditions | `else if` structure |
-| ⭐✅ | **Exercise 35** | `if` as an expression | `If` expressions return values |
+|✅| **Exercise 32** | Add an `else` | `if-else` structure |
+|✅| **Exercise 33** | Check if equal | Equality with `==` |
+|✅| **Exercise 34** | Multiple conditions | `else if` structure |
+|⭐✅| **Exercise 35** | `if` as an expression | `If` expressions return values |
 
 ---
 
@@ -78,36 +78,36 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐✅ | **Exercise 36** | Create your first function | Function definition with `fn` |
-| ✅| **Exercise 37** | Call your function | Function calls |
-| ✅| **Exercise 38** | Function with a parameter | Function parameters |
-| ✅| **Exercise 39** | Multiple parameters | Multiple parameters in a function |
-| ⭐✅ | **Exercise 40** | Return a value | Return values with `->` (Last expression) |
-| ✅| **Exercise 41** | Use `return` keyword | Explicit `return` keyword |
-| ✅| **Exercise 42** | Return from middle of function | Early returns |
-| ✅| **Exercise 43** | Function returning `bool` | Boolean returns |
-| ✅| **Exercise 44** | Function returning bigger number | Comparison in functions |
-| ✅| **Exercise 45** | Function without return | Unit type `()` is implicit |
-| 📝✅ | **Exercise 46** | Build a calculator | Multiple helper functions |
-| ✅| **Exercise 47** | Function calling function | Function composition |
-| ✅| **Exercise 48** | Absolute value function | Conditional returns |
-| ✅| **Exercise 49** | Square a number | Simple math functions |
-| ⭐✅ | **Exercise 50** | Simple recursion | Function calling itself |
+|⭐✅| **Exercise 36** | Create your first function | Function definition with `fn` |
+|✅| **Exercise 37** | Call your function | Function calls |
+|✅| **Exercise 38** | Function with a parameter | Function parameters |
+|✅| **Exercise 39** | Multiple parameters | Multiple parameters in a function |
+|⭐✅| **Exercise 40** | Return a value | Return values with `->` (Last expression) |
+|✅| **Exercise 41** | Use `return` keyword | Explicit `return` keyword |
+|✅| **Exercise 42** | Return from middle of function | Early returns |
+|✅| **Exercise 43** | Function returning `bool` | Boolean returns |
+|✅| **Exercise 44** | Function returning bigger number | Comparison in functions |
+|✅| **Exercise 45** | Function without return | Unit type `()` is implicit |
+|📝✅ | **Exercise 46** | Build a calculator | Multiple helper functions |
+|✅| **Exercise 47** | Function calling function | Function composition |
+|✅| **Exercise 48** | Absolute value function | Conditional returns |
+|✅| **Exercise 49** | Square a number | Simple math functions |
+|⭐✅ | **Exercise 50** | Simple recursion | Function calling itself |
 
 ### Week 6: More Functions
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ✅| **Exercise 51** | Factorial with recursion | Practical recursion |
-| ✅| **Exercise 52** | Check if positive | Simple boolean logic |
-| ✅| **Exercise 53** | Check if negative | Comparison operators |
-| ✅| **Exercise 54** | Check range | Multiple conditions with `&&` |
-| ⭐✅ | **Exercise 55** | String parameter | String slices as parameters (`&str`) |
-| ✅| **Exercise 56** | Convert temperature (C to F) | Working with floats (`f64`) |
-| ✅| **Exercise 57** | Convert temperature (F to C) | Inverse operations |
-| ✅| **Exercise 58** | Calculate circle area | Using PI (3.14159...) |
-| ✅| **Exercise 59** | Calculate rectangle area | Multiple parameters with floats |
-| 📝✅ | **Exercise 60** | Grade calculator | Multiple `if` conditions |
+|✅| **Exercise 51** | Factorial with recursion | Practical recursion |
+|✅| **Exercise 52** | Check if positive | Simple boolean logic |
+|✅| **Exercise 53** | Check if negative | Comparison operators |
+|✅| **Exercise 54** | Check range | Multiple conditions with `&&` |
+|⭐✅| **Exercise 55** | String parameter | String slices as parameters (`&str`) |
+|✅| **Exercise 56** | Convert temperature (C to F) | Working with floats (`f64`) |
+|✅| **Exercise 57** | Convert temperature (F to C) | Inverse operations |
+|✅| **Exercise 58** | Calculate circle area | Using PI (3.14159...) |
+|✅| **Exercise 59** | Calculate rectangle area | Multiple parameters with floats |
+|📝✅| **Exercise 60** | Grade calculator | Multiple `if` conditions |
 
 ---
 
@@ -116,36 +116,36 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐✅ | **Exercise 61** | Your first loop | Infinite loop with `loop`, using counter and `break` |
-| ✅| **Exercise 62** | Break out of loop | `break` keyword |
-| ✅| **Exercise 63** | Continue in loop | `continue` keyword |
-| ⭐✅ | **Exercise 64** | `While` loop | `while` loop with condition |
-| ✅| **Exercise 65** | `While` with user input | Sentinel-controlled loop |
-| ⭐✅ | **Exercise 66** | `For` loop with range | `for` loop with range (`0..10` excludes 10) |
-| ✅| **Exercise 67** | Inclusive range | Inclusive range with `..=` |
-| ✅| **Exercise 68** | Countdown loop | Reverse iteration with `.rev()` |
-| ✅| **Exercise 69** | Skip numbers | Step iteration with `.step_by(2)` |
-| ✅| **Exercise 70** | Sum with loop | Accumulator pattern |
-| 📝✅ | **Exercise 71** | Multiplication table | Loop with multiplication |
-|✅ | **Exercise 72** | Factorial with loop | Loop-based algorithm |
-|✅ | **Exercise 73** | Count down to blast off | Loop with final action |
-| ✅| **Exercise 74** | Find first number divisible by 7 | Search with `break` |
-| ⭐✅ | **Exercise 75** | Nested loops | Loop inside loop |
+|⭐✅ | **Exercise 61** | Your first loop | Infinite loop with `loop`, using counter and `break` |
+|✅| **Exercise 62** | Break out of loop | `break` keyword |
+|✅| **Exercise 63** | Continue in loop | `continue` keyword |
+|⭐✅ | **Exercise 64** | `While` loop | `while` loop with condition |
+|✅| **Exercise 65** | `While` with user input | Sentinel-controlled loop |
+|⭐✅| **Exercise 66** | `For` loop with range | `for` loop with range (`0..10` excludes 10) |
+|✅| **Exercise 67** | Inclusive range | Inclusive range with `..=` |
+|✅| **Exercise 68** | Countdown loop | Reverse iteration with `.rev()` |
+|✅| **Exercise 69** | Skip numbers | Step iteration with `.step_by(2)` |
+|✅| **Exercise 70** | Sum with loop | Accumulator pattern |
+|📝✅| **Exercise 71** | Multiplication table | Loop with multiplication |
+|✅| **Exercise 72** | Factorial with loop | Loop-based algorithm |
+|✅| **Exercise 73** | Count down to blast off | Loop with final action |
+|✅| **Exercise 74** | Find first number divisible by 7 | Search with `break` |
+|⭐✅ | **Exercise 75** | Nested loops | Loop inside loop |
 
 ### Week 8: Advanced Loops
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| | **Exercise 76** | Multiplication table grid | Nested loop with math |
-| | **Exercise 77** | Pattern printing | Inner loop depends on outer |
-| ⭐ | **Exercise 78** | Loop labels | Named loops with labels |
-| | **Exercise 79** | Sum of squares | Combining operations in loop |
-| | **Exercise 80** | Find average | Mathematical operations with loops |
-| | **Exercise 81** | `While` with multiple conditions | Compound conditions with `&&` |
+|✅| **Exercise 76** | Multiplication table grid | Nested loop with math |
+|✅| **Exercise 77** | Pattern printing | Inner loop depends on outer |
+| ⭐✅ | **Exercise 78** | Loop labels | Named loops with labels |
+|✅| **Exercise 79** | Sum of squares | Combining operations in loop |
+|✅| **Exercise 80** | Find average | Mathematical operations with loops |
+|✅| **Exercise 81** | `While` with multiple conditions | Compound conditions with `&&` |
 | | **Exercise 82** | Or condition in `while` | Or conditions with `||` |
 | | **Exercise 83** | Do-while pattern | Post-test loop pattern |
-| 📝 | **Exercise 84** | FizzBuzz game | Multiple conditions in loop |
-| | **Exercise 85** | Guess the number | Loop with input and comparison |
+|📝✅ | **Exercise 84** | FizzBuzz game | Multiple conditions in loop |
+|✅| **Exercise 85** | Guess the number | Loop with input and comparison |
 | | **Exercise 86** | Count vowels | Loop with string checking |
 | | **Exercise 87** | Fibonacci sequence | Sequence generation |
 | | **Exercise 88** | Reverse a number | Number manipulation |
