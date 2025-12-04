@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex057_fahrenheit_to_celsius/target/debug/ex057_fahrenheit_to_celsius: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex057_fahrenheit_to_celsius/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex079_find_average/target/debug/ex079_find_average: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex079_find_average/src/main.rs

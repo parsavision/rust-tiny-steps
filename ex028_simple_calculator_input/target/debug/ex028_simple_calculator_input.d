@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex028_simple_calculator_input/target/debug/ex028_simple_calculator_input: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex028_simple_calculator_input/src/main.rs

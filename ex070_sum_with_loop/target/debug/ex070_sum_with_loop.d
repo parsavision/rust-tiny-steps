@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex070_sum_with_loop/target/debug/ex070_sum_with_loop: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex070_sum_with_loop/src/main.rs

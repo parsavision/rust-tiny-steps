@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex066_for_loop_with_range/target/debug/ex066_for_loop_with_range: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex066_for_loop_with_range/src/main.rs

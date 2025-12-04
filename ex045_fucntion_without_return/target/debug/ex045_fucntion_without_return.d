@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex045_fucntion_without_return/target/debug/ex045_fucntion_without_return: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex045_fucntion_without_return/src/main.rs

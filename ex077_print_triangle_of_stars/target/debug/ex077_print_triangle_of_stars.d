@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex077_print_triangle_of_stars/target/debug/ex077_print_triangle_of_stars: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex077_print_triangle_of_stars/src/main.rs

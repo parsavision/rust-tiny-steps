@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex039_multiple_parameters/target/debug/ex039_multiple_parameters: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex039_multiple_parameters/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex058_calculate_circle_area/target/debug/ex058_calculate_circle_area: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex058_calculate_circle_area/src/main.rs

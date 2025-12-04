@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex026_conver_text_to_number/target/debug/ex026_conver_text_to_number: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex026_conver_text_to_number/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex076_multiplication_table_grid/target/debug/ex076_multiplication_table_grid: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex076_multiplication_table_grid/src/main.rs

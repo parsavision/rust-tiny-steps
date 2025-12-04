@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex006_first_variable/target/debug/ex006_first_variable: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex006_first_variable/src/main.rs

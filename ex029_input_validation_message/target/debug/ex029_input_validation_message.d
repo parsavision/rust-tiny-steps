@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex029_input_validation_message/target/debug/ex029_input_validation_message: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex029_input_validation_message/src/main.rs

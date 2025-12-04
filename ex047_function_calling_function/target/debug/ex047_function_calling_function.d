@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex047_function_calling_function/target/debug/ex047_function_calling_function: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex047_function_calling_function/src/main.rs

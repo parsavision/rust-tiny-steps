@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex024_cleanup_user_input/target/debug/ex024_cleanup_user_input: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex024_cleanup_user_input/src/main.rs

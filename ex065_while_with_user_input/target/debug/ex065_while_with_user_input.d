@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex065_while_with_user_input/target/debug/ex065_while_with_user_input: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex065_while_with_user_input/src/main.rs

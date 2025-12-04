@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex008_simple_addition/target/debug/ex008_simple_addition: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex008_simple_addition/src/main.rs

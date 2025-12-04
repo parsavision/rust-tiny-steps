@@ -1,0 +1,6 @@
+[package]
+name = "ex014_learn_to_make_changing_variables"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

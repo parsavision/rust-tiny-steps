@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex085_guess_the_number/target/debug/ex085_guess_the_number: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex085_guess_the_number/src/main.rs

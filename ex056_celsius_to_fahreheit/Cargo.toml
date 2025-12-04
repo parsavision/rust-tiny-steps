@@ -1,0 +1,6 @@
+[package]
+name = "ex055_celsius_to_fahreheit"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

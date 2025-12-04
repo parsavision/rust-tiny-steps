@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex023_echo_program/target/debug/ex023_echo_program: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex023_echo_program/src/main.rs

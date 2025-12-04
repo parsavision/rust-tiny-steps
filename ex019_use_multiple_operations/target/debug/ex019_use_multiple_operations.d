@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex019_use_multiple_operations/target/debug/ex019_use_multiple_operations: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex019_use_multiple_operations/src/main.rs

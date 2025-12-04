@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex016_understand_variable_type/target/debug/ex016_understand_variable_type: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex016_understand_variable_type/src/main.rs

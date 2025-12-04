@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex073_countdown_to_blastoff/target/debug/ex073_countdown_to_blastoff: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex073_countdown_to_blastoff/src/main.rs

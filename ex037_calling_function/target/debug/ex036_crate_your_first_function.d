@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex036_crate_your_first_function/target/debug/ex036_crate_your_first_function: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex036_crate_your_first_function/src/main.rs

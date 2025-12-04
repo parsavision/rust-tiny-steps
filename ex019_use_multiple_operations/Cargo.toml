@@ -1,0 +1,6 @@
+[package]
+name = "ex019_use_multiple_operations"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

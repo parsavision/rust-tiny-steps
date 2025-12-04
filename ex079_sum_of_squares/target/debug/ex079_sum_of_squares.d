@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex079_sum_of_squares/target/debug/ex079_sum_of_squares: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex079_sum_of_squares/src/main.rs

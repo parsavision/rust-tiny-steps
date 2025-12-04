@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex055_string_parameter/target/debug/ex055_string_parameter: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex055_string_parameter/src/main.rs

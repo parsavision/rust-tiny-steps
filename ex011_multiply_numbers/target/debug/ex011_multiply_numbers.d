@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex011_multiply_numbers/target/debug/ex011_multiply_numbers: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex011_multiply_numbers/src/main.rs

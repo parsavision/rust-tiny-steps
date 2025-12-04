@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex038_function_with_parameter/target/debug/ex038_function_with_parameter: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex038_function_with_parameter/src/main.rs

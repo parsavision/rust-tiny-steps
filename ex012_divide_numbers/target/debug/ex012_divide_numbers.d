@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex012_divide_numbers/target/debug/ex012_divide_numbers: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex012_divide_numbers/src/main.rs

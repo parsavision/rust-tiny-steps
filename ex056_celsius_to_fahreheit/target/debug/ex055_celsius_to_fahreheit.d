@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex055_celsius_to_fahreheit/target/debug/ex055_celsius_to_fahreheit: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex055_celsius_to_fahreheit/src/main.rs

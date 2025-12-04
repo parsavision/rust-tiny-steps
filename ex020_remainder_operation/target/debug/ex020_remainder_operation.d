@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex020_remainder_operation/target/debug/ex020_remainder_operation: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex020_remainder_operation/src/main.rs

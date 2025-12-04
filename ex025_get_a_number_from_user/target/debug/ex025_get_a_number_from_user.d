@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex025_get_a_number_from_user/target/debug/ex025_get_a_number_from_user: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex025_get_a_number_from_user/src/main.rs

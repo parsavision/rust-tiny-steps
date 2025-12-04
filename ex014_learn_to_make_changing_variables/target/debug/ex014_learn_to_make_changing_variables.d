@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex014_learn_to_make_changing_variables/target/debug/ex014_learn_to_make_changing_variables: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex014_learn_to_make_changing_variables/src/main.rs

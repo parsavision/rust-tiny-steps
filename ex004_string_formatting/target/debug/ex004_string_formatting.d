@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex004_string_formatting/target/debug/ex004_string_formatting: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex004_string_formatting/src/main.rs

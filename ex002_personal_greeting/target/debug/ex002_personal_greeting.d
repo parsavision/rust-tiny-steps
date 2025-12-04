@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex002_personal_greeting/target/debug/ex002_personal_greeting: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex002_personal_greeting/src/main.rs

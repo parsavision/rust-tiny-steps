@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex017_different_number_types/target/debug/ex017_different_number_types: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex017_different_number_types/src/main.rs

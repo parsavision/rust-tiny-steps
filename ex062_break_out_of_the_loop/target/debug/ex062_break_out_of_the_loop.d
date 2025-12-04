@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex062_break_out_of_the_loop/target/debug/ex062_break_out_of_the_loop: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex062_break_out_of_the_loop/src/main.rs

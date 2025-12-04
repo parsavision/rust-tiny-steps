@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex081_while_with_multiple_condition/target/debug/ex081_while_with_multiple_condition: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex081_while_with_multiple_condition/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex060_grade_calculator/target/debug/ex060_grade_calculator: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex060_grade_calculator/src/main.rs

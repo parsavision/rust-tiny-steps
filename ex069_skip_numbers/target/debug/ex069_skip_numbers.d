@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex069_skip_numbers/target/debug/ex069_skip_numbers: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex069_skip_numbers/src/main.rs

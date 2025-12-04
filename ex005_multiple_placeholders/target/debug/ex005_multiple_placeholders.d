@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex005_multiple_placeholders/target/debug/ex005_multiple_placeholders: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex005_multiple_placeholders/src/main.rs

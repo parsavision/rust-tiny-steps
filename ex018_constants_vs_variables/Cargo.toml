@@ -1,0 +1,6 @@
+[package]
+name = "ex018_constants_vs_variables"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

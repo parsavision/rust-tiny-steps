@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex043_function_returning_bool/target/debug/ex043_function_returning_bool: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex043_function_returning_bool/src/main.rs

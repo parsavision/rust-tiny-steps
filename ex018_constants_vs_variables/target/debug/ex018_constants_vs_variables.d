@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex018_constants_vs_variables/target/debug/ex018_constants_vs_variables: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex018_constants_vs_variables/src/main.rs

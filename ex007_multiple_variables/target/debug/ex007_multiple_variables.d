@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex007_multiple_variables/target/debug/ex007_multiple_variables: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex007_multiple_variables/src/main.rs

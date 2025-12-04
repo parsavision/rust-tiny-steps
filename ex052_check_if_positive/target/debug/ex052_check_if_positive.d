@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex052_check_if_positive/target/debug/ex052_check_if_positive: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex052_check_if_positive/src/main.rs

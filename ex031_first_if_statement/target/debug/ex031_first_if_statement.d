@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex031_first_if_statement/target/debug/ex031_first_if_statement: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex031_first_if_statement/src/main.rs

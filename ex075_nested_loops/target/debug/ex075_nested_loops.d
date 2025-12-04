@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex075_nested_loops/target/debug/ex075_nested_loops: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex075_nested_loops/src/main.rs

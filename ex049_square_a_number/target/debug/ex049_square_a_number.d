@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex049_square_a_number/target/debug/ex049_square_a_number: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex049_square_a_number/src/main.rs

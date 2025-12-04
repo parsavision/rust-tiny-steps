@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex033_check_if_equal/target/debug/ex033_check_if_equal: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex033_check_if_equal/src/main.rs

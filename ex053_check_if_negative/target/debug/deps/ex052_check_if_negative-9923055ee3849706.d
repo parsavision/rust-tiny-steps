@@ -1,0 +1,5 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex052_check_if_negative/target/debug/deps/ex052_check_if_negative-9923055ee3849706.d: src/main.rs
+
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex052_check_if_negative/target/debug/deps/libex052_check_if_negative-9923055ee3849706.rmeta: src/main.rs
+
+src/main.rs:

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex071_multiplication/target/debug/ex071_multiplication: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex071_multiplication/src/main.rs

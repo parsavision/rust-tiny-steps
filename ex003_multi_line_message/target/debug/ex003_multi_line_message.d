@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex003_multi_line_message/target/debug/ex003_multi_line_message: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex003_multi_line_message/src/main.rs

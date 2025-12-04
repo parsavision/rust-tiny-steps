@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex015_practice_changing_variables/target/debug/ex015_practice_changing_variables: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex015_practice_changing_variables/src/main.rs

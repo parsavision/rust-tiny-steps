@@ -1,0 +1,6 @@
+[package]
+name = "ex077_print_triangle_of_stars"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

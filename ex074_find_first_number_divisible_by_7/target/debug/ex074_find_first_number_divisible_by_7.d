@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex074_find_first_number_divisible_by_7/target/debug/ex074_find_first_number_divisible_by_7: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex074_find_first_number_divisible_by_7/src/main.rs

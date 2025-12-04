@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex059_calculate_rectangle_area/target/debug/ex059_calculate_rectangle_area: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex059_calculate_rectangle_area/src/main.rs

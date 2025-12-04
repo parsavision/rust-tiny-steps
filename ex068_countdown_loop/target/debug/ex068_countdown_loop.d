@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex068_countdown_loop/target/debug/ex068_countdown_loop: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex068_countdown_loop/src/main.rs

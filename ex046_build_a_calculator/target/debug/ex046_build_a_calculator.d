@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex046_build_a_calculator/target/debug/ex046_build_a_calculator: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex046_build_a_calculator/src/main.rs

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex040_return_a_value/target/debug/ex040_return_a_value: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex040_return_a_value/src/main.rs

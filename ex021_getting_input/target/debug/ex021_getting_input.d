@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex021_getting_input/target/debug/ex021_getting_input: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex021_getting_input/src/main.rs

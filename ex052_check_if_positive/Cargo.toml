@@ -1,0 +1,6 @@
+[package]
+name = "ex052_check_if_positive"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

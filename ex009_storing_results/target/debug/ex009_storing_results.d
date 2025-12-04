@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex009_storing_results/target/debug/ex009_storing_results: /home/parsavisions/Desktop/github/rust_tiny_steps/new_repo/ex009_storing_results/src/main.rs
