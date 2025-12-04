@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex096_sum_array_elements/target/debug/ex096_sum_array_elements: /home/parsavisions/Desktop/github/rust-tiny-steps/ex096_sum_array_elements/src/main.rs

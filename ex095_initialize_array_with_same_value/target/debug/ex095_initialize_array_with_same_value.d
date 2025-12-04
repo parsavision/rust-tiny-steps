@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex095_initialize_array_with_same_value/target/debug/ex095_initialize_array_with_same_value: /home/parsavisions/Desktop/github/rust-tiny-steps/ex095_initialize_array_with_same_value/src/main.rs
