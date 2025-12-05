@@ -259,9 +259,9 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐ | **Exercise 166** | Define first struct | **Struct definition** |
-| | **Exercise 167** | Create struct instance | Struct instantiation |
-| | **Exercise 168** | Access struct fields | Field access with `.` |
+|⭐✅ | **Exercise 166** | Define first struct | **Struct definition** |
+|✅| **Exercise 167** | Create struct instance | Struct instantiation |
+|✅| **Exercise 168** | Access struct fields | Field access with `.` |
 | | **Exercise 169** | Mutable struct | Changing fields with `mut` |
 | | **Exercise 170** | Struct with multiple fields | Multi-field structs |
 | | **Exercise 171** | Tuple struct | Tuple structs (unnamed fields) |
