@@ -171,9 +171,9 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐ | **Exercise 101** | Create empty vector | **Dynamic vectors** vs fixed arrays |
-| | **Exercise 102** | Push to vector | `.push()` method |
-| ⭐ | **Exercise 103** | Vec macro | Quick vector creation (`vec![]`) |
+|⭐✅| **Exercise 101** | Create empty vector | **Dynamic vectors** vs fixed arrays |
+|✅| **Exercise 102** | Push to vector | `.push()` method |
+|⭐✅| **Exercise 103** | Vec macro | Quick vector creation (`vec![]`) |
 | | **Exercise 104** | Pop from vector | Stack operations on vector with `.pop()` |
 | | **Exercise 105** | Vector length | `.len()` on vectors |
 | | **Exercise 106** | Check if empty | Boolean methods with `.is_empty()` |
@@ -384,10 +384,6 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | | **Exercise 258** | Generic trait implementation | Blanket implementations |
 | | **Exercise 259** | Monomorphization concept | How generics work at compile time |
 | 📝 | **Exercise 260** | Generic container | Building generic containers |
-
-Understood. I will continue the `README.md` in English.
-
-Here is the continuation of **PHASE 9** and the start of **PHASE 10: Collections & Iterators** for your Rust exercises.
 
 ---
 
