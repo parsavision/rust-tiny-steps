@@ -174,13 +174,13 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 |⭐✅| **Exercise 101** | Create empty vector | **Dynamic vectors** vs fixed arrays |
 |✅| **Exercise 102** | Push to vector | `.push()` method |
 |⭐✅| **Exercise 103** | Vec macro | Quick vector creation (`vec![]`) |
-| | **Exercise 104** | Pop from vector | Stack operations on vector with `.pop()` |
-| | **Exercise 105** | Vector length | `.len()` on vectors |
-| | **Exercise 106** | Check if empty | Boolean methods with `.is_empty()` |
-| | **Exercise 107** | Access vector element | Indexing vectors (Warning: Can panic) |
-| ⭐ | **Exercise 108** | Safe vector access | Safe indexing with `.get(index)` (Returns `Option`) |
-| | **Exercise 109** | Insert at position | Inserting in middle with `.insert()` |
-| | **Exercise 110** | Remove from position | Removing specific element with `.remove()` |
+| ✅| **Exercise 104** | Pop from vector | Stack operations on vector with `.pop()` |
+| ✅| **Exercise 105** | Vector length | `.len()` on vectors |
+| ✅| **Exercise 106** | Check if empty | Boolean methods with `.is_empty()` |
+| ✅| **Exercise 107** | Access vector element | Indexing vectors (Warning: Can panic) |
+| ⭐✅ | **Exercise 108** | Safe vector access | Safe indexing with `.get(index)` (Returns `Option`) |
+| ✅| **Exercise 109** | Insert at position | Inserting in middle with `.insert()` |
+| ✅| **Exercise 110** | Remove from position | Removing specific element with `.remove()` |
 | | **Exercise 111** | Clear vector | Emptying collections with `.clear()` |
 | | **Exercise 112** | Loop through vector | Iterating vectors |
 | | **Exercise 113** | Iterate with index | Enumeration with `.iter().enumerate()` |
