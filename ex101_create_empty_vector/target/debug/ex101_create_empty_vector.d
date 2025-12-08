@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex101_create_empty_vector/target/debug/ex101_create_empty_vector: /home/parsavisions/Desktop/github/rust-tiny-steps/ex101_create_empty_vector/src/main.rs
