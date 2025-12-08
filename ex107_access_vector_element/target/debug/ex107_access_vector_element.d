@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex107_access_vector_element/target/debug/ex107_access_vector_element: /home/parsavisions/Desktop/github/rust-tiny-steps/ex107_access_vector_element/src/main.rs
