@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex110_remove_from_postion/target/debug/ex110_remove_from_postion: /home/parsavisions/Desktop/github/rust-tiny-steps/ex110_remove_from_postion/src/main.rs
