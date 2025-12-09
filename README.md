@@ -196,7 +196,7 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐ | **Exercise 121** | Create empty String | `String` vs **&str** |
+|⭐✅| **Exercise 121** | Create empty String | `String` vs **&str** |
 | | **Exercise 122** | String from literal | Converting `&str` to `String` |
 | | **Exercise 123** | Push to string | String concatenation method 1: `.push_str()` |
 | | **Exercise 124** | Push single char | Adding single characters with `.push('!')` |
