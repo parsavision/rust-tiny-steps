@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex112_loop_through_vector/target/debug/ex112_loop_through_vector: /home/parsavisions/Desktop/github/rust-tiny-steps/ex112_loop_through_vector/src/main.rs
