@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex121_create_empty_string/target/debug/ex121_create_empty_string: /home/parsavisions/Desktop/github/rust-tiny-steps/ex121_create_empty_string/src/main.rs
