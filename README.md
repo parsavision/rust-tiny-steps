@@ -189,8 +189,8 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 |✅| **Exercise 116** | Vector of strings | Vectors hold any type |
 |✅| **Exercise 117** | Sort vector | In-place sorting with `.sort()` |
 |✅| **Exercise 118** | Reverse vector | Reversing collections with `.reverse()` |
-| | **Exercise 119** | Check if contains | Searching vectors with `.contains()` |
-| ⭐ | **Exercise 120** | Vector capacity | Memory allocation (`.capacity()` vs `.len()`) |
+|✅| **Exercise 119** | Check if contains | Searching vectors with `.contains()` |
+|⭐✅ | **Exercise 120** | Vector capacity | Memory allocation (`.capacity()` vs `.len()`) |
 
 ### Week 11: Strings
 
