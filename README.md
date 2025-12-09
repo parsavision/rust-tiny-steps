@@ -181,11 +181,11 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ⭐✅ | **Exercise 108** | Safe vector access | Safe indexing with `.get(index)` (Returns `Option`) |
 | ✅| **Exercise 109** | Insert at position | Inserting in middle with `.insert()` |
 | ✅| **Exercise 110** | Remove from position | Removing specific element with `.remove()` |
-| | **Exercise 111** | Clear vector | Emptying collections with `.clear()` |
-| | **Exercise 112** | Loop through vector | Iterating vectors |
-| | **Exercise 113** | Iterate with index | Enumeration with `.iter().enumerate()` |
-| | **Exercise 114** | Modify while iterating | Mutable iteration with `.iter_mut()` |
-| 📝 | **Exercise 115** | Filter vector | Conditional collection building |
+| ✅| **Exercise 111** | Clear vector | Emptying collections with `.clear()` |
+| ✅| **Exercise 112** | Loop through vector | Iterating vectors |
+| ✅| **Exercise 113** | Iterate with index | Enumeration with `.iter().enumerate()` |
+| ✅| **Exercise 114** | Modify while iterating | Mutable iteration with `.iter_mut()` |
+|📝✅ | **Exercise 115** | Filter vector | Conditional collection building |
 | | **Exercise 116** | Vector of strings | Vectors hold any type |
 | | **Exercise 117** | Sort vector | In-place sorting with `.sort()` |
 | | **Exercise 118** | Reverse vector | Reversing collections with `.reverse()` |
