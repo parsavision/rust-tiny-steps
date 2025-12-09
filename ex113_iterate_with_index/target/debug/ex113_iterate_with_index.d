@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex113_iterate_with_index/target/debug/ex113_iterate_with_index: /home/parsavisions/Desktop/github/rust-tiny-steps/ex113_iterate_with_index/src/main.rs
