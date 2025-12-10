@@ -201,11 +201,11 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅ | **Exercise 123** | Push to string | String concatenation method 1: `.push_str()` |
 | ✅ | **Exercise 124** | Push single char | Adding single characters with `.push('!')` |
 | ⭐ | **Exercise 125** | Concatenate with `+` | `+` operator (takes **ownership**!) |
-| | **Exercise 126** | Format macro | Non-consuming concatenation with `format!` |
-| | **Exercise 127** | String length | `.len()` gives **bytes**, not characters! |
-| | **Exercise 128** | Count characters | Difference between bytes and chars (`.chars().count()`) |
-| | **Exercise 129** | Iterate chars | `.chars()` iterator |
-| | **Exercise 130** | String slicing | String slices (`&s[0..5]`) |
+|✅| **Exercise 126** | Format macro | Non-consuming concatenation with `format!` |
+|✅| **Exercise 127** | String length | `.len()` gives **bytes**, not characters! |
+|✅| **Exercise 128** | Count characters | Difference between bytes and chars (`.chars().count()`) |
+|✅| **Exercise 129** | Iterate chars | `.chars()` iterator |
+|✅| **Exercise 130** | String slicing | String slices (`&s[0..5]`) |
 
 ---
 
