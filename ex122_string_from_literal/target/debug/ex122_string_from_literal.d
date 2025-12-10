@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex122_string_from_literal/target/debug/ex122_string_from_literal: /home/parsavisions/Desktop/github/rust-tiny-steps/ex122_string_from_literal/src/main.rs
