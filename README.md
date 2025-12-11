@@ -142,7 +142,7 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 |✅| **Exercise 79** | Sum of squares | Combining operations in loop |
 |✅| **Exercise 80** | Find average | Mathematical operations with loops |
 |✅| **Exercise 81** | `While` with multiple conditions | Compound conditions with `&&` |
-| | **Exercise 82** | Or condition in `while` | Or conditions with `||` |
+|  ✅| **Exercise 82** | Or condition in `while` | Or conditions with `||` |
 | | **Exercise 83** | Do-while pattern | Post-test loop pattern |
 |📝✅ | **Exercise 84** | FizzBuzz game | Multiple conditions in loop |
 |✅| **Exercise 85** | Guess the number | Loop with input and comparison |
@@ -217,7 +217,7 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 |⭐✅ | **Exercise 131** | Basic `match` | `match` expression |
 | ✅| **Exercise 132** | Match returns value | Match as expression |
 | ✅| **Exercise 133** | Match on multiple values | OR patterns with `|` |
-| | **Exercise 134** | Match ranges | Range patterns |
+| ✅| **Exercise 134** | Match ranges | Range patterns |
 | ✅| **Exercise 135** | Match guard | Conditional patterns |
 | ⭐ | **Exercise 136** | Match on `bool` | Boolean matching |
 | | **Exercise 137** | Match on tuple | Tuple patterns |
