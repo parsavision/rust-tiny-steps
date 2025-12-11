@@ -219,7 +219,7 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅| **Exercise 133** | Match on multiple values | OR patterns with `|` |
 | ✅| **Exercise 134** | Match ranges | Range patterns |
 | ✅| **Exercise 135** | Match guard | Conditional patterns |
-| ⭐ | **Exercise 136** | Match on `bool` | Boolean matching |
+| ⭐✅ | **Exercise 136** | Match on `bool` | Boolean matching |
 | | **Exercise 137** | Match on tuple | Tuple patterns |
 | | **Exercise 138** | Destructure in match | Pattern binding |
 | | **Exercise 139** | Match on char | Character matching |
