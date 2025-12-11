@@ -162,10 +162,10 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅ | **Exercise 94** | Loop through array | Iterating arrays (`for item in arr.iter()`) |
 |✅| **Exercise 95** | Initialize array with same value | Array initialization syntax `[0; 10]` |
 |✅| **Exercise 96** | Sum array elements | Accumulator with arrays |
-| ✅ | **Exercise 97** | Find maximum | Comparison in loop |
-| | **Exercise 98** | Find minimum | Finding minimum value |
-| | **Exercise 99** | Array with explicit type | Type annotations for arrays |
-| | **Exercise 100** | 2D array | Multidimensional arrays |
+|✅ | **Exercise 97** | Find maximum | Comparison in loop |
+|✅| **Exercise 98** | Find minimum | Finding minimum value |
+|✅| **Exercise 99** | Array with explicit type | Type annotations for arrays |
+|✅| **Exercise 100** | 2D array | Multidimensional arrays |
 
 ### Week 10: Vectors
 
