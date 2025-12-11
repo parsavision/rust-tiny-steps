@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex82_or_condtion_in_while/target/debug/ex82_or_condtion_in_while: /home/parsavisions/Desktop/github/rust-tiny-steps/ex82_or_condtion_in_while/src/main.rs
