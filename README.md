@@ -142,12 +142,12 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 |✅| **Exercise 79** | Sum of squares | Combining operations in loop |
 |✅| **Exercise 80** | Find average | Mathematical operations with loops |
 |✅| **Exercise 81** | `While` with multiple conditions | Compound conditions with `&&` |
-|  ✅| **Exercise 82** | Or condition in `while` | Or conditions with `||` |
+| ✅| **Exercise 82** | Or condition in `while` | Or conditions with `||` |
 | | **Exercise 83** | Do-while pattern | Post-test loop pattern |
 |📝✅ | **Exercise 84** | FizzBuzz game | Multiple conditions in loop |
 |✅| **Exercise 85** | Guess the number | Loop with input and comparison |
 | | **Exercise 86** | Count vowels | Loop with string checking |
-| | **Exercise 87** | Fibonacci sequence | Sequence generation |
+|  ✅| **Exercise 87** | Fibonacci sequence | Sequence generation |
 | | **Exercise 88** | Reverse a number | Number manipulation |
 | | **Exercise 89** | Check if prime | Mathematical algorithm |
 | ⭐ | **Exercise 90** | Menu system | Practical loop pattern |
