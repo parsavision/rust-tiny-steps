@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex140_match_on_string_slice/target/debug/ex140_match_on_string_slice: /home/parsavisions/Desktop/github/rust-tiny-steps/ex140_match_on_string_slice/src/main.rs
