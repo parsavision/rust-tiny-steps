@@ -197,10 +197,10 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
 |⭐✅| **Exercise 121** | Create empty String | `String` vs **&str** |
-| ✅ | **Exercise 122** | String from literal | Converting `&str` to `String` |
-| ✅ | **Exercise 123** | Push to string | String concatenation method 1: `.push_str()` |
-| ✅ | **Exercise 124** | Push single char | Adding single characters with `.push('!')` |
-| ⭐ | **Exercise 125** | Concatenate with `+` | `+` operator (takes **ownership**!) |
+|✅| **Exercise 122** | String from literal | Converting `&str` to `String` |
+|✅| **Exercise 123** | Push to string | String concatenation method 1: `.push_str()` |
+|✅| **Exercise 124** | Push single char | Adding single characters with `.push('!')` |
+|✅⭐| **Exercise 125** | Concatenate with `+` | `+` operator (takes **ownership**!) |
 |✅| **Exercise 126** | Format macro | Non-consuming concatenation with `format!` |
 |✅| **Exercise 127** | String length | `.len()` gives **bytes**, not characters! |
 |✅| **Exercise 128** | Count characters | Difference between bytes and chars (`.chars().count()`) |
@@ -220,10 +220,10 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 | ✅| **Exercise 134** | Match ranges | Range patterns |
 | ✅| **Exercise 135** | Match guard | Conditional patterns |
 | ⭐✅ | **Exercise 136** | Match on `bool` | Boolean matching |
-| | **Exercise 137** | Match on tuple | Tuple patterns |
-| | **Exercise 138** | Destructure in match | Pattern binding |
-| | **Exercise 139** | Match on char | Character matching |
-| | **Exercise 140** | Match on string slice | String matching |
+| ✅| **Exercise 137** | Match on tuple | Tuple patterns |
+| ✅| **Exercise 138** | Destructure in match | Pattern binding |
+| ✅| **Exercise 139** | Match on char | Character matching |
+| ✅| **Exercise 140** | Match on string slice | String matching |
 
 ### Week 13: Enums
 
