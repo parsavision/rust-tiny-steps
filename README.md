@@ -229,8 +229,8 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 
 | Status | Exercise | Goal | Concept |
 | :---: | :--- | :--- | :--- |
-| ⭐ | **Exercise 141** | Define first `enum` | Simple enums |
-| | **Exercise 142** | Use `enum` | Enum instantiation |
+| ⭐✅ | **Exercise 141** | Define first `enum` | Simple enums |
+| ✅| **Exercise 142** | Use `enum` | Enum instantiation |
 | | **Exercise 143** | Match on `enum` | Enum matching |
 | | **Exercise 144** | Enum with data | Enum variants with **associated data** |
 | | **Exercise 145** | Match and extract data | Destructuring enum variants |
