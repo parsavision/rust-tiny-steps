@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex087_fibonacci_sequence/target/debug/ex087_fibonacci_sequence: /home/parsavisions/Desktop/github/rust-tiny-steps/ex087_fibonacci_sequence/src/main.rs
