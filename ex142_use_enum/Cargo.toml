@@ -1,0 +1,6 @@
+[package]
+name = "ex142_use_enum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
