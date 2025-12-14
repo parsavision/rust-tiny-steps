@@ -233,8 +233,8 @@ A complete, gradual learning path designed for **absolute beginners**. Each exer
 |✅| **Exercise 142** | Use `enum` | Enum instantiation |
 |✅| **Exercise 143** | Match on `enum` | Enum matching |
 |✅| **Exercise 144** | Enum with data | Enum variants with **associated data** |
-| | **Exercise 145** | Match and extract data | Destructuring enum variants |
-| ⭐ | **Exercise 146** | **Option** type | `Option` enum for nullable values (`Some`/`None`) |
+|✅| **Exercise 145** | Match and extract data | Destructuring enum variants |
+|✅⭐| **Exercise 146** | **Option** type | `Option` enum for nullable values (`Some`/`None`) |
 | | **Exercise 147** | Match on `Option` | `Option` handling |
 | | **Exercise 148** | Unwrap option | Unsafe unwrapping with `.unwrap()` |
 | | **Exercise 149** | Expect with message | Better error messages with `.expect()` |
