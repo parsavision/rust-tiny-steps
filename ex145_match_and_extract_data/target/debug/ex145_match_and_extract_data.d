@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/ex145_match_and_extract_data/target/debug/ex145_match_and_extract_data: /home/parsavisions/Desktop/github/rust-tiny-steps/ex145_match_and_extract_data/src/main.rs
