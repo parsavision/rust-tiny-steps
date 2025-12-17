@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex006_crate_your_first_variable/target/debug/ex006_crate_your_first_variable: /home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex006_crate_your_first_variable/src/main.rs

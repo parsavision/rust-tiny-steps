@@ -1,0 +1,6 @@
+[package]
+name = "ex006_crate_your_first_variable"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
