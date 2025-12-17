@@ -1,0 +1,6 @@
+[package]
+name = "ex004_print_with_a_placeholder"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/resolve_star_exercises/ex004_print_with_a_placeholder/target/debug/ex004_print_with_a_placeholder: /home/parsavisions/Desktop/github/rust-tiny-steps/resolve_star_exercises/ex004_print_with_a_placeholder/src/main.rs
