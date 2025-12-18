@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex008_do_simple_math/target/debug/ex008_do_simple_math: /home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex008_do_simple_math/src/main.rs

@@ -1,0 +1,6 @@
+[package]
+name = "ex008_do_simple_math"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
