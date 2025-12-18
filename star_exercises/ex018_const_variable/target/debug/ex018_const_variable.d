@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex018_const_variable/target/debug/ex018_const_variable: /home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex018_const_variable/src/main.rs
