@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex013_immutable_variables/target/debug/ex013_immutable_variables: /home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex013_immutable_variables/src/main.rs
