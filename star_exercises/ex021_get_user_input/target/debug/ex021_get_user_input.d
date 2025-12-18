@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex021_get_user_input/target/debug/ex021_get_user_input: /home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex021_get_user_input/src/main.rs
