@@ -1,0 +1,1 @@
+/home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex024_clean_up_user_input_trim/target/debug/ex024_clean_up_user_input_trim: /home/parsavisions/Desktop/github/rust-tiny-steps/star_exercises/ex024_clean_up_user_input_trim/src/main.rs

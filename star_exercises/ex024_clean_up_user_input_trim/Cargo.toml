@@ -1,0 +1,6 @@
+[package]
+name = "ex024_clean_up_user_input_trim"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
